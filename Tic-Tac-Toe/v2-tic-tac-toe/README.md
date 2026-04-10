@@ -1,4 +1,4 @@
-# V2 Tic Tac Toe
+# V2 Tic-Tac-Toe
 
 This is the second version of my Java Tic Tac Toe project.
 
