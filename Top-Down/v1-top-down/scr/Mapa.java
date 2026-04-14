@@ -53,6 +53,4 @@ public class Mapa {
         }
         return posicaoColuna;
     }
-
-
 }
