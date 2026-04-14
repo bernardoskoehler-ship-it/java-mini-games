@@ -18,6 +18,5 @@ public class Chave extends Itens{
                 return;
             }
         }
-        return;
     }
 }
